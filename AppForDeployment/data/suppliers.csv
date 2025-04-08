@@ -1,0 +1,2 @@
+,_id,type,personal_number,firm_phone_number,company,isDeleted,createdAt,updatedAt,__v,firm_address,name,personal_email,firm_email
+0,6702b9d2a2c4c24c9f6724e5,firm,,,670175884b923eac46d240f1,False,2024-10-06T16:24:50.116Z,2025-01-03T11:59:40.504Z,0,1600 Fake Street,Jon Stewart Doe,test@example.us,ee
